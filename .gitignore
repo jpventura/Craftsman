@@ -1,0 +1,8 @@
+### Emacs ###
+*~
+.*~
+.\#*
+\#*
+
+### Microsoft Visual Code ###
+.vscode
